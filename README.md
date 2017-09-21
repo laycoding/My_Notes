@@ -16,8 +16,10 @@ http://cvlab.epfl.ch/data/pom/
 > * 北京
 > * 背景
 
-![图片引用] (https://www.zybuluo.com/static/img/logo.png)   
+![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 
 
 ### [网页链接](https://www.zybuluo.com/cmd/)
+
+
 
