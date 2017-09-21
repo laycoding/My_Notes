@@ -6,14 +6,15 @@ http://cvlab.epfl.ch/data/pom/
 # 一级标题
 
 分隔行
+
 ------
 
 **粗体** 
 
-> 背景
-> 背景
-> 北京
-> 背景
+> * 背景
+> * 背景
+> * 北京
+> * 背景
 
 ![图片引用] (ttps://www.zybuluo.com/static/img/logo.png)   
 
