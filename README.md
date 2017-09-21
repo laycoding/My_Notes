@@ -83,8 +83,14 @@ ___
 ### 文字高亮
 文字高亮功能能使行内部分文字高亮，使用一对反引号。
 语法：
-```
-`linux` `网络编程` `socket` `epoll` 
+```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
 ```
 效果：`linux` `网络编程` `socket` `epoll`
 
